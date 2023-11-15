@@ -1,0 +1,26 @@
+_repo: Bomba-the-jungle-boy-on-Jaguar-Island-b-Or-adrift-on-the-river-of-mystery_72088
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: https://en.wikipedia.org/wiki/Roy_Rockwood
+description: ''
+gutenberg_issued: '2023-11-10'
+identifiers:
+  gutenberg: '72088'
+language: en
+pgterms:marc905: 20230712064419rockwood
+pgterms:marc906: '1927'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bCupples & Leon Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bomba the jungle boy on Jaguar Island : $b Or adrift on the river of mystery'
+url: http://www.gutenberg.org/ebooks/72088
