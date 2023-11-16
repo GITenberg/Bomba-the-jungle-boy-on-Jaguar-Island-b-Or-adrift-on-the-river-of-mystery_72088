@@ -1,5 +1,8 @@
 _repo: Bomba-the-jungle-boy-on-Jaguar-Island-b-Or-adrift-on-the-river-of-mystery_72088
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72088-h/images/cover.jpg
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: https://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72088#Bomba-the-jungle-boy-on-Jaguar-Island-b-Or-adrift-on-the-river-of-mystery
 gutenberg_issued: '2023-11-10'
 identifiers:
   gutenberg: '72088'
